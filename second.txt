@@ -1,0 +1,2 @@
+git 
+rails tutorialのための事前勉強
